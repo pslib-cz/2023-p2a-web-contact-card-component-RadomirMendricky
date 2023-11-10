@@ -1,3 +1,17 @@
 .icon{
     font-family: 'icomoon';
 }
+.background{
+    background-image: url(./Card1-example/bg.webp);
+}
+.card{
+    background-color: white;
+    margin: 1em;
+}
+.card__header{
+
+}
+
+.img-responsive{
+    
+}
